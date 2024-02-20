@@ -1,0 +1,2 @@
+See on gümnaasiumiastme praktilise töö "Ajaloolise kirjelduse põhjal Arduino UNO elektroonikaplatvormil loodud väike eesti-inglise-saksa-vene tõlkesõnastik" raames valminud projekti iseseisvaks sooritamiseks vajalike failide varamu. Siin asub Arduinole vajalik kood, korpuse ja nuppude 3D-printimiseks vajalikud STL-failid, joonised, tabelid, juhised jne. _Varamu on valmimisel._
+![image](https://github.com/ranno-v/V-ike-eesti-inglise-saksa-vene-t-lkes-nastik/assets/116004672/e272ad2d-063d-4795-a215-66d72dfe9037)
